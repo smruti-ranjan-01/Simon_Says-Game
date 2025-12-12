@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+.divC{
+    display: flex;
+    justify-content: center;
+}
+.div{
+    height: 200px;
+    width: 200px;
+    border: 7px solid black;
+    border-radius: 20%;
+    margin: 10px;
+    text-align: center;
+}
+.pink{
+    background-color: rgb(236, 75, 102);
+}
+.sky{
+    background-color: rgb(87, 194, 244);
+}
+.orange{
+    background-color: orange;
+}
+.purple{
+    background-color: purple;
+}
+
+.gameflash{
+    background-color: white;
+}
+.userflash{
+    background-color: greenyellow;
+}
+
+.wrong{
+    background-color: red;
+}
